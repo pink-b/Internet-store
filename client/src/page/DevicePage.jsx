@@ -11,7 +11,7 @@ const DevicePage = () => {
         {id: 2, title: 'Камера', description: '12 мп'},
         {id: 3, title: 'Процессор', description: 'Пентиум 3'},
         {id: 4, title: 'Кол-во ядер', description: '2'},
-        {id: 5, title: 'Фккумулятор', description: '5 гб'},
+        {id: 5, title: 'Аккумулятор', description: '5 гб'},
     ]
 
     return (
